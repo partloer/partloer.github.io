@@ -2,7 +2,7 @@ title: Partloer.github.io
 description: GitHub Pages
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-midnight
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
