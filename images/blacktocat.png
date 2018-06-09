@@ -27,7 +27,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>partloer.github.io/pygment_trac.css at 092a6855fa42a4731b1b995c99915100bac8e919 · partloer/partloer.github.io</title>
+  <title>partloer.github.io/blacktocat.png at 092a6855fa42a4731b1b995c99915100bac8e919 · partloer/partloer.github.io</title>
     <meta name="description" content="GitHub is where people build software. More than 28 million people use GitHub to discover, fork, and contribute to over 85 million projects.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -37,10 +37,10 @@
     <meta property="og:image" content="https://avatars0.githubusercontent.com/u/2749378?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="partloer/partloer.github.io" /><meta property="og:url" content="https://github.com/partloer/partloer.github.io" /><meta property="og:description" content="partloer.github.io - GitHub Pages" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjgyOTUzMjA5OjhiZGY3MTFlNjU0MTBiMWFmYTIxYzgwNTk2YmUwMTAxY2IxMTVlYzg4MDc4YmU3ZjJkZjI5ZGFlOWZmOTVjODI=--6ec807211b936973df5f4ba0a762a09cdddd0545">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjgyOTUzMjA5OjVhNzM0ZWI4YWM1ZWE2NDc0YTljNzdjZDdjNjRmN2YwNjA1ODkzMDllNzEzZmNmMWM0YjczNzY3NTlhNDcyOTg=--072b2f8b8e1fd4eeb65b1d3b6a7745db863031d5">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="EB2F:7A8C:18F81EF:239B2D7:5B1B37D2" data-pjax-transient>
+  <meta name="request-id" content="EB24:7A8E:37AB686:4BE8FBC:5B1B379F" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="EB2F:7A8C:18F81EF:239B2D7:5B1B37D2" /><meta name="octolytics-dimension-region_edge" content="sea" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="2749378" /><meta name="octolytics-actor-login" content="partloer" /><meta name="octolytics-actor-hash" content="2e9d4d01e0cb155823d02b864ce7c90e4b9f76e6908cdb44af127477147a4504" />
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="EB24:7A8E:37AB686:4BE8FBC:5B1B379F" /><meta name="octolytics-dimension-region_edge" content="sea" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="2749378" /><meta name="octolytics-actor-login" content="partloer" /><meta name="octolytics-actor-hash" content="2e9d4d01e0cb155823d02b864ce7c90e4b9f76e6908cdb44af127477147a4504" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -67,7 +67,7 @@
     <meta name="user-login" content="partloer">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="YzFlZWIwMGVjY2NmN2JlMDQ5N2NjMzM5OGRjM2UwNzc2Yzg4ZGJlZjU2ZjA2MjNjMjE4Y2VjMzFjYTFiNWJkZnx7InJlbW90ZV9hZGRyZXNzIjoiMTIuMTMzLjIxMi4xMzAiLCJyZXF1ZXN0X2lkIjoiRUIyRjo3QThDOjE4RjgxRUY6MjM5QjJENzo1QjFCMzdEMiIsInRpbWVzdGFtcCI6MTUyODUxMDQyMSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="Y2IxMWMxN2NiZmI2MDUxYTJmM2YwMjY0YTE0OGVkZWUxNmRmNDQ5OWE5ZGE1ZGNkNWZhNWE3Mjk3MDM3ZjgxNnx7InJlbW90ZV9hZGRyZXNzIjoiMTIuMTMzLjIxMi4xMzAiLCJyZXF1ZXN0X2lkIjoiRUIyNDo3QThFOjM3QUI2ODY6NEJFOEZCQzo1QjFCMzc5RiIsInRpbWVzdGFtcCI6MTUyODUxMDM2OCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES">
 
@@ -84,7 +84,7 @@
   <meta name="octolytics-dimension-user_id" content="2749378" /><meta name="octolytics-dimension-user_login" content="partloer" /><meta name="octolytics-dimension-repository_id" content="23760985" /><meta name="octolytics-dimension-repository_nwo" content="partloer/partloer.github.io" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="23760985" /><meta name="octolytics-dimension-repository_network_root_nwo" content="partloer/partloer.github.io" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/partloer/partloer.github.io/blob/092a6855fa42a4731b1b995c99915100bac8e919/stylesheets/pygment_trac.css" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/partloer/partloer.github.io/blob/092a6855fa42a4731b1b995c99915100bac8e919/images/blacktocat.png" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -145,7 +145,7 @@
           aria-label="Search this repository"
           data-unscoped-placeholder="Search or jump to…"
           data-scoped-placeholder="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=pMyhJpUXrvFB5oCPVVvL5deVRy9bZsAor/WGOZXPdabm6nTabOUqQ+XY1JgjL2YMvwHyXN/3QRoAUHrX5qumCw=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=SsuYN94k/6m+vUqpPh8iR3lEkesPzxRzQ3wv73Py5pMI7U3LJ9Z7GxqDHr5Ia4+uEdAkmItelUHs2dMBAJY1Pg=="
           spellcheck="false"
           autocomplete="off"
           autocapitalize="off"
@@ -304,7 +304,7 @@
           Settings
         </a></li>
 
-        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0IIzdwEN/wXeaJV80Oa1E4F+t/nawNnVd1NXVwfcqNsnaWzhOb5++UDAvx8vnz3A7u9P5ugIAbNq/KVBKxOrdw==" />
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="FDDSQWRP2VL6AZHrCBs036hBMfvCQk46kDdJ4jo6LHPj243XXPxYrmSpu4j3YrwMx9DJ5PCKllyNmLv0FvUv3w==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -316,7 +316,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="rIiP7LTx1eL2BJX9Fno4wETI3ZBzPYVpt1X6G0CpeJRbY9B6jEJUHmisv57pA7ATK1klj0H1XQ+q+ggNbGZ7OA==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="EWNAw+etnMP+o24KkMvXVFfCONhrz758s3lFfBGlnz7miB9V3x4dP2ALRGlvsl+HOFPAx1kHZhqu1rdqPWqckg==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -352,7 +352,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="LULV1xrvoaX/WwkJSLmo2w/HogEV/HMJJyQtozstu/6vt/TqX3v0zDbtkpglFVz2PLkBD6v4yvu8iKNmhzgAww==" />      <input type="hidden" name="repository_id" id="repository_id" value="23760985" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="yVKNCZo0Oz2JkOXdJSn7xLCEh5b+UEj+IegsZ5b+uE5Lp6w036BuVEAmfkxIhQ/pg/okmEBU8Qy6RKKiKusDcw==" />      <input type="hidden" name="repository_id" id="repository_id" value="23760985" class="form-control" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/partloer/partloer.github.io/subscription"
@@ -432,7 +432,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/partloer/partloer.github.io/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="/g+AlmbLUycdE1GqWvArwcvIJ3+Z7A9Myvfj9kAO1ySSMDphdGuy94+RZyiQHxfGgXO+hNRXVXdRVR4j1aBKNg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/partloer/partloer.github.io/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="EKuMVeuOo+ATwRwZqSaYmbx8WKlmFLkLWwrEuBS+etl8lDai+S5CMIFDKptjyaSe9sfBUiuv4zDAqDltgRDnyw==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -447,7 +447,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/partloer/partloer.github.io/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="whdTbrtRKinyfTrPUhWLoE7XPcLVzM2VX4XIpNzHQTZxu/oI2dwd+ARTbHsYz6Eljh+kPfE/D+pSM+0k/+1wMQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/partloer/partloer.github.io/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="RN9s2D1ttWNn/8OwwO7jkzRARnqpqtjAyTlWW5ykBVH3c8W+X+CCspHRlQSKNMkW9IjfhY1ZGr/Ej3Pbv440Vg==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -466,7 +466,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/partloer/partloer.github.io/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="k1nFo4xOCgj+qbVfabUZPuRFh1tT+u3mTObntx2A51tofLz1fdRC3UiWHu658cYOLW01p54O6RunnxlimfWZzw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/partloer/partloer.github.io/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="zNX0jVNFMR3Lg3qLZe6+ZmyPGIPkuzec2qxA3XZyT/s38I3bot95yH280Tq1qmFWpaeqfylPM2Ex1b4I8gcxbw==" />
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -550,9 +550,9 @@
   <div class="repository-content ">
 
     
-  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/partloer/partloer.github.io/blob/092a6855fa42a4731b1b995c99915100bac8e919/stylesheets/pygment_trac.css">Permalink</a>
+  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/partloer/partloer.github.io/blob/092a6855fa42a4731b1b995c99915100bac8e919/images/blacktocat.png">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:fa96ba9052743f963e3eab2bb85eb1b4 -->
+  <!-- blob contrib key: blob_contributors:v21:967f465c2852c11602d323f96570fe7d -->
 
   <div class="file-navigation">
     
@@ -594,7 +594,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/partloer/partloer.github.io/blob/master/stylesheets/pygment_trac.css"
+               href="/partloer/partloer.github.io/blob/master/images/blacktocat.png"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -604,7 +604,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/partloer/partloer.github.io/blob/revert-1-theme_v2/stylesheets/pygment_trac.css"
+               href="/partloer/partloer.github.io/blob/revert-1-theme_v2/images/blacktocat.png"
                data-name="revert-1-theme_v2"
                data-skip-pjax="true"
                rel="nofollow">
@@ -614,7 +614,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/partloer/partloer.github.io/blob/theme_v1.1/stylesheets/pygment_trac.css"
+               href="/partloer/partloer.github.io/blob/theme_v1.1/images/blacktocat.png"
                data-name="theme_v1.1"
                data-skip-pjax="true"
                rel="nofollow">
@@ -624,7 +624,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/partloer/partloer.github.io/blob/theme_v2/stylesheets/pygment_trac.css"
+               href="/partloer/partloer.github.io/blob/theme_v2/images/blacktocat.png"
                data-name="theme_v2"
                data-skip-pjax="true"
                rel="nofollow">
@@ -634,7 +634,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/partloer/partloer.github.io/blob/theme_v2.1/stylesheets/pygment_trac.css"
+               href="/partloer/partloer.github.io/blob/theme_v2.1/images/blacktocat.png"
                data-name="theme_v2.1"
                data-skip-pjax="true"
                rel="nofollow">
@@ -645,7 +645,7 @@
             </a>
         </div>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" action="/partloer/partloer.github.io/branches" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="UwST00wzquUp+fKY4P9ewDkLReMMZYjjrYTG/m8Mv6rZfhwoSEK/z3kS94VTIu2PfduJQjutyvhH26Qj1bhI0Q==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" action="/partloer/partloer.github.io/branches" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="P2M54XL16O2EEi5EL7+CtABsSHXsAd9igrplLSpz+6m1GbYadoT9x9T5K1mcYjH7RLyE1NvJnXlo5QfwkMcM0g==" />
           <svg class="octicon octicon-git-branch select-menu-item-icon" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
             <div class="select-menu-item-text">
               <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
@@ -653,7 +653,7 @@
             </div>
             <input type="hidden" name="name" id="name" class="js-new-item-value">
             <input type="hidden" name="branch" id="branch" value="092a6855fa42a4731b1b995c99915100bac8e919">
-            <input type="hidden" name="path" id="path" value="stylesheets/pygment_trac.css">
+            <input type="hidden" name="path" id="path" value="images/blacktocat.png">
 </form>
       </div>
 
@@ -682,12 +682,12 @@
       </clipboard-copy>
     </div>
     <div id="blob-path" class="breadcrumb">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/partloer/partloer.github.io/tree/092a6855fa42a4731b1b995c99915100bac8e919"><span>partloer.github.io</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/partloer/partloer.github.io/tree/092a6855fa42a4731b1b995c99915100bac8e919/stylesheets"><span>stylesheets</span></a></span><span class="separator">/</span><strong class="final-path">pygment_trac.css</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/partloer/partloer.github.io/tree/092a6855fa42a4731b1b995c99915100bac8e919"><span>partloer.github.io</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/partloer/partloer.github.io/tree/092a6855fa42a4731b1b995c99915100bac8e919/images"><span>images</span></a></span><span class="separator">/</span><strong class="final-path">blacktocat.png</strong>
     </div>
   </div>
 
 
-  <include-fragment src="/partloer/partloer.github.io/contributors/092a6855fa42a4731b1b995c99915100bac8e919/stylesheets/pygment_trac.css" class="commit-tease">
+  <include-fragment src="/partloer/partloer.github.io/contributors/092a6855fa42a4731b1b995c99915100bac8e919/images/blacktocat.png" class="commit-tease">
     <div>
       Fetching contributors&hellip;
     </div>
@@ -704,9 +704,8 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/partloer/partloer.github.io/raw/092a6855fa42a4731b1b995c99915100bac8e919/stylesheets/pygment_trac.css">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/partloer/partloer.github.io/blame/092a6855fa42a4731b1b995c99915100bac8e919/stylesheets/pygment_trac.css">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/partloer/partloer.github.io/commits/092a6855fa42a4731b1b995c99915100bac8e919/stylesheets/pygment_trac.css">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/partloer/partloer.github.io/raw/092a6855fa42a4731b1b995c99915100bac8e919/images/blacktocat.png">Download</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/partloer/partloer.github.io/commits/092a6855fa42a4731b1b995c99915100bac8e919/images/blacktocat.png">History</a>
     </div>
 
         <button class="btn-octicon disabled tooltipped tooltipped-nw"
@@ -716,10 +715,6 @@
             <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </button>
 
-        <button type="button" class="btn-octicon disabled tooltipped tooltipped-nw"
-          aria-label="You must be on a branch to make or propose changes to this file">
-          <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
-        </button>
         <button type="button" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
           aria-label="You must be on a branch to make or propose changes to this file">
           <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -727,313 +722,16 @@
   </div>
 
   <div class="file-info">
-      71 lines (69 sloc)
-      <span class="file-info-divider"></span>
-    4.26 KB
+    463 Bytes
   </div>
 </div>
 
     
 
-  <div itemprop="text" class="blob-wrapper data type-css">
-      <table class="highlight tab-size js-file-line-container" data-tab-size="8">
-      <tr>
-        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.hll</span> { <span class="pl-c1"><span class="pl-c1">background-color</span></span>: <span class="pl-c1">#ffffcc</span> }</td>
-      </tr>
-      <tr>
-        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span>  { <span class="pl-c1"><span class="pl-c1">background</span></span>: <span class="pl-c1">#f0f3f3</span>; }</td>
-      </tr>
-      <tr>
-        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.c</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#0099FF</span>; <span class="pl-c1"><span class="pl-c1">font-style</span></span>: <span class="pl-c1">italic</span> } <span class="pl-c"><span class="pl-c">/*</span> Comment <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.err</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#AA0000</span>; <span class="pl-c1"><span class="pl-c1">background-color</span></span>: <span class="pl-c1">#FFAAAA</span> } <span class="pl-c"><span class="pl-c">/*</span> Error <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.k</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#006699</span>; <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span> } <span class="pl-c"><span class="pl-c">/*</span> Keyword <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.o</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#555555</span> } <span class="pl-c"><span class="pl-c">/*</span> Operator <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.cm</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#0099FF</span>; <span class="pl-c1"><span class="pl-c1">font-style</span></span>: <span class="pl-c1">italic</span> } <span class="pl-c"><span class="pl-c">/*</span> Comment.Multiline <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.cp</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#009999</span> } <span class="pl-c"><span class="pl-c">/*</span> Comment.Preproc <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
-        <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.c1</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#0099FF</span>; <span class="pl-c1"><span class="pl-c1">font-style</span></span>: <span class="pl-c1">italic</span> } <span class="pl-c"><span class="pl-c">/*</span> Comment.Single <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.cs</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#0099FF</span>; <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span>; <span class="pl-c1"><span class="pl-c1">font-style</span></span>: <span class="pl-c1">italic</span> } <span class="pl-c"><span class="pl-c">/*</span> Comment.Special <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.gd</span> { <span class="pl-c1"><span class="pl-c1">background-color</span></span>: <span class="pl-c1">#FFCCCC</span>; <span class="pl-c1"><span class="pl-c1">border</span></span>: <span class="pl-c1">1<span class="pl-k">px</span></span> <span class="pl-c1">solid</span> <span class="pl-c1">#CC0000</span> } <span class="pl-c"><span class="pl-c">/*</span> Generic.Deleted <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.ge</span> { <span class="pl-c1"><span class="pl-c1">font-style</span></span>: <span class="pl-c1">italic</span> } <span class="pl-c"><span class="pl-c">/*</span> Generic.Emph <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
-        <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.gr</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#FF0000</span> } <span class="pl-c"><span class="pl-c">/*</span> Generic.Error <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
-        <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.gh</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#003300</span>; <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span> } <span class="pl-c"><span class="pl-c">/*</span> Generic.Heading <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
-        <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.gi</span> { <span class="pl-c1"><span class="pl-c1">background-color</span></span>: <span class="pl-c1">#CCFFCC</span>; <span class="pl-c1"><span class="pl-c1">border</span></span>: <span class="pl-c1">1<span class="pl-k">px</span></span> <span class="pl-c1">solid</span> <span class="pl-c1">#00CC00</span> } <span class="pl-c"><span class="pl-c">/*</span> Generic.Inserted <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
-        <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.go</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#AAAAAA</span> } <span class="pl-c"><span class="pl-c">/*</span> Generic.Output <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
-        <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.gp</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#000099</span>; <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span> } <span class="pl-c"><span class="pl-c">/*</span> Generic.Prompt <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
-        <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.gs</span> { <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span> } <span class="pl-c"><span class="pl-c">/*</span> Generic.Strong <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
-        <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.gu</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#003300</span>; <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span> } <span class="pl-c"><span class="pl-c">/*</span> Generic.Subheading <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
-        <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.gt</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#99CC66</span> } <span class="pl-c"><span class="pl-c">/*</span> Generic.Traceback <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
-        <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.kc</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#006699</span>; <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span> } <span class="pl-c"><span class="pl-c">/*</span> Keyword.Constant <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
-        <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.kd</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#006699</span>; <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span> } <span class="pl-c"><span class="pl-c">/*</span> Keyword.Declaration <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
-        <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.kn</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#006699</span>; <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span> } <span class="pl-c"><span class="pl-c">/*</span> Keyword.Namespace <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
-        <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.kp</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#006699</span> } <span class="pl-c"><span class="pl-c">/*</span> Keyword.Pseudo <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
-        <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.kr</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#006699</span>; <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span> } <span class="pl-c"><span class="pl-c">/*</span> Keyword.Reserved <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
-        <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.kt</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#007788</span>; <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span> } <span class="pl-c"><span class="pl-c">/*</span> Keyword.Type <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
-        <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.m</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#FF6600</span> } <span class="pl-c"><span class="pl-c">/*</span> Literal.Number <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
-        <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.s</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#CC3300</span> } <span class="pl-c"><span class="pl-c">/*</span> Literal.String <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
-        <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.na</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#330099</span> } <span class="pl-c"><span class="pl-c">/*</span> Name.Attribute <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
-        <td id="LC30" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.nb</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#336666</span> } <span class="pl-c"><span class="pl-c">/*</span> Name.Builtin <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
-        <td id="LC31" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.nc</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#00AA88</span>; <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span> } <span class="pl-c"><span class="pl-c">/*</span> Name.Class <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
-        <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.no</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#336600</span> } <span class="pl-c"><span class="pl-c">/*</span> Name.Constant <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
-        <td id="LC33" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.nd</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#9999FF</span> } <span class="pl-c"><span class="pl-c">/*</span> Name.Decorator <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
-        <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.ni</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#999999</span>; <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span> } <span class="pl-c"><span class="pl-c">/*</span> Name.Entity <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
-        <td id="LC35" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.ne</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#CC0000</span>; <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span> } <span class="pl-c"><span class="pl-c">/*</span> Name.Exception <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
-        <td id="LC36" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.nf</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#CC00FF</span> } <span class="pl-c"><span class="pl-c">/*</span> Name.Function <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
-        <td id="LC37" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.nl</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#9999FF</span> } <span class="pl-c"><span class="pl-c">/*</span> Name.Label <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
-        <td id="LC38" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.nn</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#00CCFF</span>; <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span> } <span class="pl-c"><span class="pl-c">/*</span> Name.Namespace <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
-        <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.nt</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#330099</span>; <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span> } <span class="pl-c"><span class="pl-c">/*</span> Name.Tag <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
-        <td id="LC40" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.nv</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#003333</span> } <span class="pl-c"><span class="pl-c">/*</span> Name.Variable <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
-        <td id="LC41" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.ow</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#000000</span>; <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span> } <span class="pl-c"><span class="pl-c">/*</span> Operator.Word <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
-        <td id="LC42" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.w</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#bbbbbb</span> } <span class="pl-c"><span class="pl-c">/*</span> Text.Whitespace <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
-        <td id="LC43" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.mf</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#FF6600</span> } <span class="pl-c"><span class="pl-c">/*</span> Literal.Number.Float <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
-        <td id="LC44" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.mh</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#FF6600</span> } <span class="pl-c"><span class="pl-c">/*</span> Literal.Number.Hex <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
-        <td id="LC45" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.mi</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#FF6600</span> } <span class="pl-c"><span class="pl-c">/*</span> Literal.Number.Integer <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
-        <td id="LC46" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.mo</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#FF6600</span> } <span class="pl-c"><span class="pl-c">/*</span> Literal.Number.Oct <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
-        <td id="LC47" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.sb</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#CC3300</span> } <span class="pl-c"><span class="pl-c">/*</span> Literal.String.Backtick <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
-        <td id="LC48" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.sc</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#CC3300</span> } <span class="pl-c"><span class="pl-c">/*</span> Literal.String.Char <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
-        <td id="LC49" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.sd</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#CC3300</span>; <span class="pl-c1"><span class="pl-c1">font-style</span></span>: <span class="pl-c1">italic</span> } <span class="pl-c"><span class="pl-c">/*</span> Literal.String.Doc <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
-        <td id="LC50" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.s2</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#CC3300</span> } <span class="pl-c"><span class="pl-c">/*</span> Literal.String.Double <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
-        <td id="LC51" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.se</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#CC3300</span>; <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span> } <span class="pl-c"><span class="pl-c">/*</span> Literal.String.Escape <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
-        <td id="LC52" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.sh</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#CC3300</span> } <span class="pl-c"><span class="pl-c">/*</span> Literal.String.Heredoc <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
-        <td id="LC53" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.si</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#AA0000</span> } <span class="pl-c"><span class="pl-c">/*</span> Literal.String.Interpol <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
-        <td id="LC54" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.sx</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#CC3300</span> } <span class="pl-c"><span class="pl-c">/*</span> Literal.String.Other <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
-        <td id="LC55" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.sr</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#33AAAA</span> } <span class="pl-c"><span class="pl-c">/*</span> Literal.String.Regex <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
-        <td id="LC56" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.s1</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#CC3300</span> } <span class="pl-c"><span class="pl-c">/*</span> Literal.String.Single <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
-        <td id="LC57" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.ss</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#FFCC33</span> } <span class="pl-c"><span class="pl-c">/*</span> Literal.String.Symbol <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
-        <td id="LC58" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.bp</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#336666</span> } <span class="pl-c"><span class="pl-c">/*</span> Name.Builtin.Pseudo <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
-        <td id="LC59" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.vc</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#003333</span> } <span class="pl-c"><span class="pl-c">/*</span> Name.Variable.Class <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
-        <td id="LC60" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.vg</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#003333</span> } <span class="pl-c"><span class="pl-c">/*</span> Name.Variable.Global <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
-        <td id="LC61" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.vi</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#003333</span> } <span class="pl-c"><span class="pl-c">/*</span> Name.Variable.Instance <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
-        <td id="LC62" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.highlight</span> <span class="pl-e">.il</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#FF6600</span> } <span class="pl-c"><span class="pl-c">/*</span> Literal.Number.Integer.Long <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
-        <td id="LC63" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
-        <td id="LC64" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.type-csharp</span> <span class="pl-e">.highlight</span> <span class="pl-e">.k</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#0000FF</span> }</td>
-      </tr>
-      <tr>
-        <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
-        <td id="LC65" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.type-csharp</span> <span class="pl-e">.highlight</span> <span class="pl-e">.kt</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#0000FF</span> }</td>
-      </tr>
-      <tr>
-        <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
-        <td id="LC66" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.type-csharp</span> <span class="pl-e">.highlight</span> <span class="pl-e">.nf</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#000000</span>; <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">normal</span> }</td>
-      </tr>
-      <tr>
-        <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
-        <td id="LC67" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.type-csharp</span> <span class="pl-e">.highlight</span> <span class="pl-e">.nc</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#2B91AF</span> }</td>
-      </tr>
-      <tr>
-        <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
-        <td id="LC68" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.type-csharp</span> <span class="pl-e">.highlight</span> <span class="pl-e">.nn</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#000000</span> }</td>
-      </tr>
-      <tr>
-        <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
-        <td id="LC69" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.type-csharp</span> <span class="pl-e">.highlight</span> <span class="pl-e">.s</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#A31515</span> }</td>
-      </tr>
-      <tr>
-        <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
-        <td id="LC70" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.type-csharp</span> <span class="pl-e">.highlight</span> <span class="pl-e">.sc</span> { <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#A31515</span> }</td>
-      </tr>
-</table>
-
-  <div class="BlobToolbar position-absolute js-file-line-actions dropdown js-menu-container js-select-menu d-none" aria-hidden="true">
-    <button class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1 dropdown-toggle js-menu-target" type="button" aria-expanded="false" aria-haspopup="true" aria-label="Inline file action toolbar" aria-controls="inline-file-actions">
-      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 13 16" version="1.1" width="13" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm5 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM13 7.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/></svg>
-    </button>
-    <div class="dropdown-menu-content js-menu-content" id="inline-file-actions">
-      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2">
-        <li><clipboard-copy class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
-        <li><clipboard-copy class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" href="/partloer/partloer.github.io/blame/092a6855fa42a4731b1b995c99915100bac8e919/stylesheets/pygment_trac.css">View git blame</a></li>
-          <li><a class="dropdown-item" id="js-new-issue" href="/partloer/partloer.github.io/issues/new">Open new issue</a></li>
-      </ul>
-    </div>
-  </div>
-
+  <div itemprop="text" class="blob-wrapper data type-text">
+      <div class="image">
+          <span class="border-wrap"><img src="/partloer/partloer.github.io/blob/092a6855fa42a4731b1b995c99915100bac8e919/images/blacktocat.png?raw=true" alt="blacktocat.png"></span>
+      </div>
   </div>
 
   </div>
@@ -1059,7 +757,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.27204s from unicorn-69455d7c64-b7zd7">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.24490s from unicorn-1170422418-dbv7m">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
